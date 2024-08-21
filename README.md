@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there :O
+> I'm kind of not here most of the time but yeah
+> Portfolio: https://keventhen4.great-site.net/
 
 <!--
 **keventhen4/keventhen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
